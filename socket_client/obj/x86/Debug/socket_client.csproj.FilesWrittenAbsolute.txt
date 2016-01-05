@@ -1,0 +1,5 @@
+/home/ri/socket_client/socket_client/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ri/socket_client/socket_client/bin/Debug/socket_client.exe.mdb
+/home/ri/socket_client/socket_client/bin/Debug/socket_client.exe
+/home/ri/socket_client/socket_client/obj/x86/Debug/socket_client.exe
+/home/ri/socket_client/socket_client/obj/x86/Debug/socket_client.exe.mdb
